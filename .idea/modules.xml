@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/colocviu_SPT.iml" filepath="$PROJECT_DIR$/.idea/colocviu_SPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-coloviu/springboot-coloviu.iml" filepath="$PROJECT_DIR$/springboot-coloviu/springboot-coloviu.iml" />
+    </modules>
+  </component>
+</project>
